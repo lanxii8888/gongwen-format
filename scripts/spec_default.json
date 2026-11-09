@@ -1,0 +1,70 @@
+{
+  "page": {
+    "width_cm": 21.0,
+    "height_cm": 29.7,
+    "top_cm": 3.7,
+    "bottom_cm": 3.5,
+    "left_cm": 2.8,
+    "right_cm": 2.6,
+    "header_cm": 1.5,
+    "footer_cm": 1.75
+  },
+  "style": {
+    "title": {
+      "east_asia": "方正小标宋简体",
+      "size_pt": 22,
+      "bold": false
+    },
+    "subtitle": {
+      "east_asia": "楷体_GB2312",
+      "size_pt": 16,
+      "bold": false
+    },
+    "h1": {
+      "east_asia": "黑体",
+      "size_pt": 16,
+      "bold": false
+    },
+    "h2": {
+      "east_asia": "楷体_GB2312",
+      "size_pt": 16,
+      "bold": false
+    },
+    "h3": {
+      "east_asia": "仿宋_GB2312",
+      "size_pt": 16,
+      "bold": true
+    },
+    "h4": {
+      "east_asia": "仿宋_GB2312",
+      "size_pt": 16,
+      "bold": true
+    },
+    "body": {
+      "east_asia": "仿宋_GB2312",
+      "size_pt": 16,
+      "bold": false
+    },
+    "sign": {
+      "east_asia": "仿宋_GB2312",
+      "size_pt": 16,
+      "bold": false
+    }
+  },
+  "latin_font": "Times New Roman",
+  "body_line_pt": 30,
+  "indent_chars": 200,
+  "table": {
+    "size_pt": 16
+  },
+  "pagenum": {
+    "enabled": true,
+    "east_asia": "宋体",
+    "size_pt": 14,
+    "space_chars": 100,
+    "dash": "—"
+  },
+  "header": {
+    "clear": true
+  }
+}
