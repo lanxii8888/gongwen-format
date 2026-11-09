@@ -46,7 +46,7 @@
 ### 方式一：作为 agent skill 安装（推荐）
 
 ```bash
-npx skills add <your-github-id>/gongwen-format
+npx skills add lanxii8888/gongwen-format
 ```
 
 装好后对 AI 说「把这份文档按公文格式改一下」即可。
@@ -54,7 +54,7 @@ npx skills add <your-github-id>/gongwen-format
 ### 方式二：手动放进 skill 目录
 
 ```bash
-git clone https://github.com/<your-github-id>/gongwen-format.git \
+git clone https://github.com/lanxii8888/gongwen-format.git \
   ~/.dsh/skills/gongwen-format
 ```
 
